@@ -8,3 +8,5 @@ var speed : float = 100.0
 func _ready() -> void:
 	hp = 5
 	speed = 150.0
+	
+	print("死ね")
